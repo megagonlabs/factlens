@@ -1,0 +1,7 @@
+datasets
+pandas
+openai==0.28
+pymongo
+scikit-learn==1.3.2
+jaro-winkler
+bert-score
