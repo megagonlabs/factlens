@@ -1,6 +1,7 @@
-# **FactLens**
+# **FactLens** 
 
-> FactLens: Benchmarking Fine-Grained Fact Verification <br/>
+
+> FactLens: Benchmarking Fine-Grained Fact Verification 📄 [paper link](https://arxiv.org/pdf/2411.05980)<br/>
 > <small>Kushan Mitra, Dan Zhang, Sajjadur Rahman, Estevam Hruschka</small>
 
 
